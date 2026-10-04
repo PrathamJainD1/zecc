@@ -1,0 +1,80 @@
+{"timestamp":"00:00:37.447","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:40.572","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:55.925","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:01:01.621","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:04.629","source":"Server","level":"LOG","message":"○ Compiling /_error ..."}
+{"timestamp":"00:01:07.764","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:07.809","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:01:07.809","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:01:16.209","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:16.281","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:16.322","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:16.335","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:16.342","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:01:16.343","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:01:16.344","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:01:16.344","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:01:17.215","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:17.286","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:17.287","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:01:17.288","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:01:17.303","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:17.355","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:17.356","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:01:17.357","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:01:18.333","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:18.375","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:18.380","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:18.380","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:01:18.381","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:01:18.430","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:18.431","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:01:18.431","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:01:19.630","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:19.678","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:01:19.711","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:19.712","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:01:19.712","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:01:19.721","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:01:19.721","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:01:19.722","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:04:54.956","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:55.002","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:55.031","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:55.031","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:55.032","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:04:55.040","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:55.041","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:55.041","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:04:56.218","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:56.257","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:56.263","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:56.263","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:56.263","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:04:56.298","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:56.298","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:56.298","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:04:58.556","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:58.594","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:04:58.622","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:58.622","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:58.623","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:04:58.631","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:04:58.632","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\""}
+{"timestamp":"00:04:58.632","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m"}
+{"timestamp":"00:05:01.330","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:05:01.369","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:05:01.396","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:05:01.397","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:05:01.397","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:05:01.411","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:05:01.411","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:05:01.411","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/StorageTab.tsx:114:15)\\u001b[22m\""}
+{"timestamp":"00:05:02.356","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:05:02.386","source":"Server","level":"ERROR","message":"⨯ Error: DATABASE_URL is required"}
+{"timestamp":"00:05:02.411","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:05:02.411","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:05:02.412","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:05:02.419","source":"Browser","level":"ERROR","message":"{}"}
+{"timestamp":"00:05:02.420","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\\n\\u001b[31mSyntaxError: Unexpected token '<', \\\"<!DOCTYPE \\\"... is not valid JSON\\u001b[39m\" \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}
+{"timestamp":"00:05:02.420","source":"Browser","level":"ERROR","message":"\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m\n\u001b[31mSyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\u001b[39m \"\\u001b[2m(src/components/tabs/HomeTab.tsx:93:15)\\u001b[22m\""}

@@ -1,0 +1,6 @@
+{
+  "/api/chamber/route": "app/api/chamber/route.js",
+  "/api/dashboard/route": "app/api/dashboard/route.js",
+  "/api/produce/route": "app/api/produce/route.js",
+  "/page": "app/page.js"
+}
